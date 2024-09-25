@@ -25,7 +25,7 @@ This is a dummy description of this app features
 
 ## Pantaila-argazkiak
 
-![Carreau(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![Carreau(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 

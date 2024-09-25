@@ -25,7 +25,7 @@ This is a dummy description of this app features
 
 ## Screenshots
 
-![Screenshot of Carreau](./doc/screenshots/example.jpg)
+![Screenshot of Carreau](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 

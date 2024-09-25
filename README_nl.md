@@ -25,7 +25,7 @@ This is a dummy description of this app features
 
 ## Schermafdrukken
 
-![Schermafdrukken van Carreau](./doc/screenshots/example.jpg)
+![Schermafdrukken van Carreau](./doc/screenshots/screenshot.png)
 
 ## Documentatie en bronnen
 

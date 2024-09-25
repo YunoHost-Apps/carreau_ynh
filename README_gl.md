@@ -25,7 +25,7 @@ This is a dummy description of this app features
 
 ## Capturas de pantalla
 
-![Captura de pantalla de Carreau](./doc/screenshots/example.jpg)
+![Captura de pantalla de Carreau](./doc/screenshots/screenshot.png)
 
 ## Documentación e recursos
 
