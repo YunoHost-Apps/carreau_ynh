@@ -19,9 +19,7 @@ Hij mag NIET handmatig aangepast worden.
 This is a dummy description of this app features
 
 
-**Geleverde versie:** 1.0~ynh1
-
-**Demo:** <https://demo.example.com>
+**Geleverde versie:** 1.0.0~ynh1
 
 ## Schermafdrukken
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Documentatie en bronnen
 
-- Officiele website van de app: <https://example.com>
-- Officiele gebruikersdocumentatie: <https://yunohost.org/apps>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - YunoHost-store: <https://apps.yunohost.org/app/carreau>
 - Meld een bug: <https://github.com/YunoHost-Apps/carreau_ynh/issues>

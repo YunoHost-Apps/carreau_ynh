@@ -19,9 +19,7 @@
 This is a dummy description of this app features
 
 
-**分发版本：** 1.0~ynh1
-
-**演示：** <https://demo.example.com>
+**分发版本：** 1.0.0~ynh1
 
 ## 截图
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## 文档与资源
 
-- 官方应用网站： <https://example.com>
-- 官方用户文档： <https://yunohost.org/apps>
-- 官方管理文档： <https://yunohost.org/packaging_apps>
 - 上游应用代码库： <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - YunoHost 商店： <https://apps.yunohost.org/app/carreau>
 - 报告 bug： <https://github.com/YunoHost-Apps/carreau_ynh/issues>

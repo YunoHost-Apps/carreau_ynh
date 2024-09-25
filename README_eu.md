@@ -19,9 +19,7 @@ EZ editatu eskuz.
 This is a dummy description of this app features
 
 
-**Paketatutako bertsioa:** 1.0~ynh1
-
-**Demoa:** <https://demo.example.com>
+**Paketatutako bertsioa:** 1.0.0~ynh1
 
 ## Pantaila-argazkiak
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Dokumentazioa eta baliabideak
 
-- Aplikazioaren webgune ofiziala: <https://example.com>
-- Erabiltzaileen dokumentazio ofiziala: <https://yunohost.org/apps>
-- Administratzaileen dokumentazio ofiziala: <https://yunohost.org/packaging_apps>
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - YunoHost Denda: <https://apps.yunohost.org/app/carreau>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/carreau_ynh/issues>
