@@ -1,30 +1,17 @@
-# Пакетирование приложения, начиная с этого примера
-
-- Скопируйте приложение перед тем, как работать над ним, используя кнопку ['Use this template'](https://github.com/new?template_name=example_ynh&template_owner=YunoHost) на GitHub-репозитории
-- Отредактируйте `manifest.toml`, добавив данные приложения
-- Отредактируйте скрипты `install`, `upgrade`, `remove`, `backup` and `restore`, и добавьте необходимые файлы конфигурации в `conf/`
-  - Используя [документацию по помощникам скриптов](https://yunohost.org/packaging_apps_helpers)
-- Также отредактируйте скрипты `change_url` and `config`, или удалите их, если Вы их не используете
-- Добавьте файл `LICENSE` в пакет.
-  - Важно: этот файл `LICENSE` не обязан быть таким же, как и в главной ветке приложения - это только лицензия, под которой Вы хотите распространять код данного пакета. (если Вы не знаете, какую выбрать лицензию, мы рекомендуем [AGPL-3](https://www.gnu.org/licenses/agpl-3.0.txt))
-- Отредактируйте файлы в директории `doc/` ([смотрите страницу о документировании пакетов](https://yunohost.org/packaging_app_doc))
-- Файлы `README.md` автоматически генерируются <https://github.com/YunoHost/apps/tree/master/tools/readme_generator>
-
----
 <!--
 Важно: этот README был автоматически сгенерирован <https://github.com/YunoHost/apps/tree/master/tools/readme_generator>
 Он НЕ ДОЛЖЕН редактироваться вручную.
 -->
 
-# Example app для YunoHost
+# Carreau для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/example.svg)](https://ci-apps.yunohost.org/ci/apps/example/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/example.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/example.maintain.svg)
+[![Уровень интеграции](https://dash.yunohost.org/integration/carreau.svg)](https://ci-apps.yunohost.org/ci/apps/carreau/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/carreau.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/carreau.maintain.svg)
 
-[![Установите Example app с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=example)
+[![Установите Carreau с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=carreau)
 
 *[Прочтите этот README на других языках.](./ALL_README.md)*
 
-> *Этот пакет позволяет Вам установить Example app быстро и просто на YunoHost-сервер.*  
+> *Этот пакет позволяет Вам установить Carreau быстро и просто на YunoHost-сервер.*  
 > *Если у Вас нет YunoHost, пожалуйста, посмотрите [инструкцию](https://yunohost.org/install), чтобы узнать, как установить его.*
 
 ## Обзор
@@ -38,27 +25,27 @@ This is a dummy description of this app features
 
 ## Снимки экрана
 
-![Снимок экрана Example app](./doc/screenshots/example.jpg)
+![Снимок экрана Carreau](./doc/screenshots/example.jpg)
 
 ## Документация и ресурсы
 
 - Официальный веб-сайт приложения: <https://example.com>
 - Официальная документация пользователя: <https://yunohost.org/apps>
 - Официальная документация администратора: <https://yunohost.org/packaging_apps>
-- Репозиторий кода главной ветки приложения: <https://some.forge.com/example/example>
-- Магазин YunoHost: <https://apps.yunohost.org/app/example>
-- Сообщите об ошибке: <https://github.com/YunoHost-Apps/example_ynh/issues>
+- Репозиторий кода главной ветки приложения: <https://github.com/l-atelier-des-chercheurs/carreau.js>
+- Магазин YunoHost: <https://apps.yunohost.org/app/carreau>
+- Сообщите об ошибке: <https://github.com/YunoHost-Apps/carreau_ynh/issues>
 
 ## Информация для разработчиков
 
-Пришлите Ваш запрос на слияние в [ветку `testing`](https://github.com/YunoHost-Apps/example_ynh/tree/testing).
+Пришлите Ваш запрос на слияние в [ветку `testing`](https://github.com/YunoHost-Apps/carreau_ynh/tree/testing).
 
 Чтобы попробовать ветку `testing`, пожалуйста, сделайте что-то вроде этого:
 
 ```bash
-sudo yunohost app install https://github.com/YunoHost-Apps/example_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/carreau_ynh/tree/testing --debug
 или
-sudo yunohost app upgrade example -u https://github.com/YunoHost-Apps/example_ynh/tree/testing --debug
+sudo yunohost app upgrade carreau -u https://github.com/YunoHost-Apps/carreau_ynh/tree/testing --debug
 ```
 
 **Больше информации о пакетировании приложений:** <https://yunohost.org/packaging_apps>
