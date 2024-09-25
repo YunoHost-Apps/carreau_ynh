@@ -19,9 +19,7 @@ No se debe editar a mano.
 This is a dummy description of this app features
 
 
-**Versión actual:** 1.0~ynh1
-
-**Demo:** <https://demo.example.com>
+**Versión actual:** 1.0.0~ynh1
 
 ## Capturas
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Documentaciones y recursos
 
-- Sitio web oficial: <https://example.com>
-- Documentación usuario oficial: <https://yunohost.org/apps>
-- Documentación administrador oficial: <https://yunohost.org/packaging_apps>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/carreau>
 - Reportar un error: <https://github.com/YunoHost-Apps/carreau_ynh/issues>

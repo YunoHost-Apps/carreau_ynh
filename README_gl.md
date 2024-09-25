@@ -19,9 +19,7 @@ NON debe editarse manualmente.
 This is a dummy description of this app features
 
 
-**Versión proporcionada:** 1.0~ynh1
-
-**Demo:** <https://demo.example.com>
+**Versión proporcionada:** 1.0.0~ynh1
 
 ## Capturas de pantalla
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Documentación e recursos
 
-- Web oficial da app: <https://example.com>
-- Documentación oficial para usuarias: <https://yunohost.org/apps>
-- Documentación oficial para admin: <https://yunohost.org/packaging_apps>
 - Repositorio de orixe do código: <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - Tenda YunoHost: <https://apps.yunohost.org/app/carreau>
 - Informar dun problema: <https://github.com/YunoHost-Apps/carreau_ynh/issues>

@@ -4,19 +4,15 @@ packaging_format = 2
 
 id = "carreau"
 name = "Carreau"
-description.en = "presentation tool in the browser"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Presentation tool in the browser"
+description.fr = "Presentation tool in the browser"
 
-version = "1.0~ynh1"
+version = "1.0.0~ynh1"
 
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
-website = "https://example.com"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
+license = "CC-BY-NC-SA-4.0"
 code = "https://github.com/l-atelier-des-chercheurs/carreau.js"
 
 [integration]
@@ -63,4 +59,4 @@ ram.runtime = "50M"
     [resources.ports]
 
     [resources.apt]
-    packages = ""
+    packages = "ffmpeg, build-essential, libcairo2-dev, libpango1.0-dev, libjpeg-dev, libgif-dev, librsvg2-dev"

@@ -19,9 +19,7 @@
 This is a dummy description of this app features
 
 
-**Поставляемая версия:** 1.0~ynh1
-
-**Демо-версия:** <https://demo.example.com>
+**Поставляемая версия:** 1.0.0~ynh1
 
 ## Снимки экрана
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Документация и ресурсы
 
-- Официальный веб-сайт приложения: <https://example.com>
-- Официальная документация пользователя: <https://yunohost.org/apps>
-- Официальная документация администратора: <https://yunohost.org/packaging_apps>
 - Репозиторий кода главной ветки приложения: <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - Магазин YunoHost: <https://apps.yunohost.org/app/carreau>
 - Сообщите об ошибке: <https://github.com/YunoHost-Apps/carreau_ynh/issues>

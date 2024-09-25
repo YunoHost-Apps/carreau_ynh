@@ -19,9 +19,7 @@ Ini TIDAK boleh diedit dengan tangan.
 This is a dummy description of this app features
 
 
-**Versi terkirim:** 1.0~ynh1
-
-**Demo:** <https://demo.example.com>
+**Versi terkirim:** 1.0.0~ynh1
 
 ## Tangkapan Layar
 
@@ -29,9 +27,6 @@ This is a dummy description of this app features
 
 ## Dokumentasi dan sumber daya
 
-- Website aplikasi resmi: <https://example.com>
-- Dokumentasi pengguna resmi: <https://yunohost.org/apps>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
 - Depot kode aplikasi hulu: <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - Gudang YunoHost: <https://apps.yunohost.org/app/carreau>
 - Laporkan bug: <https://github.com/YunoHost-Apps/carreau_ynh/issues>
