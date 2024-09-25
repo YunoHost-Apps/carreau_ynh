@@ -1,0 +1,8 @@
+{
+  "protocol": "http",
+  "host": "127.0.0.1",
+  "port": __PORT__,
+  "templateEngine": "jade",
+  "userDirPath": "documents",
+  "userDirname": "carreau-js"
+}
