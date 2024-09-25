@@ -19,9 +19,7 @@ Il NE doit PAS être modifié à la main.
 Ceci est une fausse description des fonctionalités de l'app
 
 
-**Version incluse :** 1.0~ynh1
-
-**Démo :** <https://demo.example.com>
+**Version incluse :** 1.0.0~ynh1
 
 ## Captures d’écran
 
@@ -29,9 +27,6 @@ Ceci est une fausse description des fonctionalités de l'app
 
 ## Documentations et ressources
 
-- Site officiel de l’app : <https://example.com>
-- Documentation officielle utilisateur : <https://yunohost.org/apps>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
 - Dépôt de code officiel de l’app : <https://github.com/l-atelier-des-chercheurs/carreau.js>
 - YunoHost Store : <https://apps.yunohost.org/app/carreau>
 - Signaler un bug : <https://github.com/YunoHost-Apps/carreau_ynh/issues>
